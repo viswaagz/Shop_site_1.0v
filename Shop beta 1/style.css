@@ -1,0 +1,229 @@
+@font-face {
+    font-family: caveat;
+    src: url(Material/Caveat/Caveat-VariableFont_wght.ttf);
+
+}
+
+@font-face {
+    font-family: playfair;
+    src: url(Material/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+
+
+
+header  img{
+    width: 200px;
+    margin-left: 09px;
+}
+
+header a{
+    margin-left: 150px;
+    font-size: 25px;
+    color:black;
+    text-decoration: none;
+    align-items: center;
+    font-family: "caveat";
+    resize: vertical;
+    overflow: auto;
+}
+
+body{
+    background-color: #F2E5D2;
+}
+
+div h1{
+    position: absolute;
+    top: 230px;
+    left: 420px;
+    font-family: "caveat";
+    font-size: 50px;
+    text-decoration: none;
+}
+
+div button{
+    position: absolute;
+    top: 350px;
+    left: 520px;
+    width: 300px;
+    height: 50px;
+    border: 0;
+    background-color: #BA5757;
+    font-size: large;
+    font-family: "playfair";
+}
+
+.container2{
+    position: absolute;
+    top: 700px;
+    left: 500px;
+    /* max-width: 470px; */
+    background: rgb(131, 128, 128);
+    padding: 180px 180px;
+    border-radius: 50px;
+}
+#parakey{
+    position:absolute;
+        top: 225px;
+        left: 10px;
+        font-size: 15px;
+
+}
+
+.container1{
+    position: absolute;
+    top: 700px;
+    left: 50px;
+    /* max-width: 470px; */
+    background: rgb(131, 128, 128);
+    padding: 180px 180px;
+    border-radius: 50px;
+}
+#pic1{
+        position:absolute;
+        top: 25px;
+        left: 30px;
+        width: 300px;
+    }
+
+.container3{
+        position: absolute;
+        top: 700px;
+        left: 940px;
+        /* max-width: 470px; */
+        background: rgb(131, 128, 128);
+        padding: 180px 180px;
+        border-radius: 50px;
+    }
+
+div p{
+    position: absolute;
+    top: 1050px;
+    left: 280px;
+    font-size: 30px;
+} 
+
+.open{
+    position: absolute;
+    top: 1300px;
+    left: 80px;
+    width: 600px;
+}
+
+.openwords{
+    position: absolute;
+    top: 1350px;
+    left: 700px;
+}
+.Service{
+    position: absolute;
+    top: 1550px;
+    left: 710px;
+}
+
+
+
+.Scale01{
+    width: 120px;
+    position: absolute;
+    top: 200px;
+    left: 450px
+}
+.scissors02{
+    width: 180px;
+    position: absolute;
+    top: 150px;
+    left: 100px
+}
+.Thread03{
+    width: 180px;
+    position: absolute;
+    top: 450px;
+    left: 570px;   
+}
+
+.thread04{
+    width: 120px;
+    position: absolute;
+    top: 350px;
+    left: 250px;   
+}
+.pin07{
+    width: 150px;
+    position: absolute;
+    top: 120px;
+    left: 800px
+}
+
+.bundle06{
+    width: 150px;
+    position: absolute;
+    top: 170px;
+    left: 1050px
+}
+
+.machine05{
+    width: 150px;
+    position: absolute;
+    top: 380px;
+    left: 980px
+}
+
+footer{
+    position: absolute;
+    top: 1900px;
+    left: 15px;
+    font-size: 10px;
+    background: rgb(8, 8, 8);
+        padding: 100px 660px;
+        border-radius: 0px;
+}
+
+footer h1{
+    position: absolute;
+    top: 5px;
+    left: 15px;
+}
+
+.Contact{
+    position: absolute;
+    top: 40px;
+    left: 20px;
+    font-size: 20px;
+}
+
+.AboutUniqio{
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    font-size: 20px;
+}
+
+.Account{
+    position: absolute;
+    top: 40px;
+    left: 700px;
+    font-size: 20px;
+
+}
+
+.Guru_Social_Account{
+    position: absolute;
+    top: 40px;
+    left: 1000px;
+    font-size: 20px;
+    color:rgb(255, 255, 255);
+}
+.socialmedia{
+    position: absolute;
+    top: 55px;
+    left: 45px;
+}
+.Contact{
+    color:rgb(255, 255, 255);
+}
+a{
+    color:rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration: none;
+
+}
